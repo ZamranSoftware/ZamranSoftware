@@ -33,4 +33,13 @@ Why Should You Work With Me?
 
 ✅ Responsive - Available for communication throughout the day.
 
+<p><span style="font-size:18px"><a class="btn ml-auto mr-auto ml-md-0 mt-4 dark-button aos-init aos-animate" href="https://zamran.com">Zamran Software</a></span></p>
+<p><span style="font-size:18px"><a class="btn ml-auto mr-auto ml-md-0 mt-4 dark-button aos-init aos-animate" href="http://seorehberim.com">Seo Rehberim</a></span></p>
+<p><span style="font-size:18px"><a class="btn ml-auto mr-auto ml-md-0 mt-4 dark-button aos-init aos-animate" href="https://www.linkedin.com/in/taygunuzunay/">Linkedin</a></span></p>
+<p><span style="font-size:18px"><a class="btn ml-auto mr-auto ml-md-0 mt-4 dark-button aos-init aos-animate" href="https://www.instagram.com/taygunuzunay/">İnstagram</a></span></p>
+<p><span style="font-size:18px"><a class="btn ml-auto mr-auto ml-md-0 mt-4 dark-button aos-init aos-animate" href="https://www.fiverr.com/zamransoftware">Fiverr</a></span></p>
+<p><span style="font-size:18px"><a class="btn ml-auto mr-auto ml-md-0 mt-4 dark-button aos-init aos-animate" href="https://bionluk.com/taygunuzunay">Bionluk</a></span></p>
+
+
+
 
