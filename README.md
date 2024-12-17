@@ -37,6 +37,9 @@ Why Should You Work With Me?
 - 📫  taygun@zamran.com
 - 👉  https://zamran.com
 - 👉  https://seorehberim.com
+- 👉  https://www.mapsorder.com
+- 👉  https://fikiratolye.com
+
 
 ### Connect with me:
 [<img align="left" alt="taygun-uzunay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/@zamransoftware)
